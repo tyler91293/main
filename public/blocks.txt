@@ -1,0 +1,40 @@
+                    <div class="option" data-id="yahoo">
+                        <input type="checkbox" id="yahoo" checked>
+                        <label for="yahoo">Yahoo Finance</label>
+                        <p class="description">Get detailed financial information and stock quotes for your company.</p>
+                    </div>
+                    <div class="option" data-id="googlenews">
+                        <input type="checkbox" id="googlenews">
+                        <label for="googlenews">Google News</label>
+                        <p class="description">Find news articles related to your company.</p>
+                    </div>
+                    <div class="option" data-id="investorRelations">
+                        <input type="checkbox" id="investorRelations">
+                        <label for="investorRelations">Investor Relations</label>
+                        <p class="description">Access your company's investor relations page.</p>
+                    </div>
+                    <div class="option" data-id="careers">
+                        <input type="checkbox" id="careers">
+                        <label for="careers">Careers</label>
+                        <p class="description">Search for your company's careers page on Google.</p>
+                    </div>
+                    <div class="option" data-id="twitter">
+                        <input type="checkbox" id="twitter" checked>
+                        <label for="twitter">Twitter</label>
+                        <p class="description">See the latest tweets and discussions about your company.</p>
+                    </div>
+                    <div class="option" data-id="finviz">
+                        <input type="checkbox" id="finviz" checked>
+                        <label for="finviz">Finviz</label>
+                        <p class="description">Learn about your company's current financial position.</p>
+                    </div>
+                    <div class="option" data-id="seekingalpha">
+                        <input type="checkbox" id="seekingalpha">
+                        <label for="seekingalpha">Seeking Alpha</label>
+                        <p class="description">Get investment research and stock analysis for your company.</p>
+                    </div>
+                    <div class="option" data-id="cnbc">
+                        <input type="checkbox" id="cnbc">
+                        <label for="cnbc">CNBC</label>
+                        <p class="description">Watch live market coverage and financial news about your company.</p>
+                    </div>
